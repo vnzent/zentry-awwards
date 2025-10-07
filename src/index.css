@@ -35,9 +35,22 @@ body {
 }
 
 @theme {
+    /* Fonts */
     --font-circular: 'circular-web', sans-serif;
     --font-general: 'general', sans-serif;
     --font-robert-md: 'robert-medium', sans-serif;
     --font-robert-base: 'robert-regular', sans-serif;
     --font-zentry: 'zentry-regular', sans-serif;
+    /* Colors */
+        /* Blue */
+        --color-blue-50: #DFDFF0;
+        --color-blue-75: #DFDFF2;
+        --color-blue-100: #F0F2FA;
+        --color-blue-200: #010101;
+        --color-blue-300: #4FB7DD;
+        /* Violet */
+        --color-violet-300: #5724FF;
+        /* Yellow */
+        --color-yellow-100: #8E983F;
+        --color-yellow-300: #EDFF66;
 }
