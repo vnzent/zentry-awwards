@@ -1,8 +1,8 @@
 import React from 'react'
 
-const BentoTilt = () => {
+const BentoTilt = ({ children, className = ""}) => {
   return (
-    <div>BentoTilt</div>
+    <div className={className}>{children}</div>
   )
 }
 
