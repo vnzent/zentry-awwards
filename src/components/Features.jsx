@@ -16,7 +16,6 @@ const Features = () => {
                     src="videos/feature-1.mp4"
                     title="radiant"
                     description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
-                    isComingSoon
                     />
             </BentoTilt>
             <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
